@@ -1,0 +1,13 @@
+[project]
+name = "livekitrepro"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "simli-ai>=0.1.7",
+    "livekit-api>=0.8.0",
+    "livekit>=0.18.1",
+    "python-dotenv",
+]
+
